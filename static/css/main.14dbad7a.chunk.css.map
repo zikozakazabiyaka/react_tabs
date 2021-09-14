@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,KACE,QAAS,CACV,GAGC,eAAgB","file":"main.14dbad7a.chunk.css","sourcesContent":["// Put styles here\nbody {\n  margin: 0;\n}\n\nli {\n  list-style: none;\n}"]}
